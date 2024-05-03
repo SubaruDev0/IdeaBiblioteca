@@ -1,4 +1,5 @@
 
+
 public class IdeaBiblioteca {
 
     public static void main(String[] args) {
@@ -38,10 +39,10 @@ public class IdeaBiblioteca {
                 
 
       
-        System.out.println("Libros escritos por "+ a1.nombre+" "+a1.apellido+" en esta biblioteca: " + idA1 );
-        System.out.println("Libros escritos por "+ a2.nombre+" "+a2.apellido +": " + idA2 );
-        System.out.println("Libros escritos por "+ a3.nombre+" "+a3.apellido +": " + idA3 );
-        System.out.println("Libros escritos por "+ a4.nombre+" "+a4.apellido +": " + idA4 );
+        System.out.println("Libros escritos por "+ a1.nombre+" "+a1.apellido +": "+" en esta biblioteca: " + idA1 );
+        System.out.println("Libros escritos por "+ a2.nombre+" "+a2.apellido +": "+" en esta biblioteca: " + idA2 );
+        System.out.println("Libros escritos por "+ a3.nombre+" "+a3.apellido +": "+" en esta biblioteca: " + idA3 );
+        System.out.println("Libros escritos por "+ a4.nombre+" "+a4.apellido +": "+" en esta biblioteca: " + idA4 );
 
         
         
