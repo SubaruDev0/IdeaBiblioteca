@@ -4,7 +4,7 @@ Este es un programa que simula la gestión de una biblioteca. Permite realizar d
 
 Para solo ver el codigo:
 
-Click en "scr" y solo abre alguna de las Clases.
+Click en "src" y solo abre alguna de las Clases.
 
 Cómo utilizar el programa:
 
