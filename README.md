@@ -1,10 +1,9 @@
-#IdeaBiblioteca
-Este es un programa que simula la gestión de una biblioteca. 
-Permite realizar diversas operaciones, como agregar libros, 
-buscar libros por autor o título, prestar libros y contar la
-cantidad de libros en la biblioteca.
+IdeaBiblioteca:
 
-#Cómo utilizar el programa
+Este es un programa que simula la gestión de una biblioteca. Permite realizar diversas operaciones, como agregar libros, buscar libros por autor o título, prestar libros y contar la cantidad de libros en la biblioteca.
+
+Cómo utilizar el programa:
+
 1.Descarga el archivo .zip que contiene el código fuente del programa.
 
 2.Descomprime el archivo en tu computadora.
