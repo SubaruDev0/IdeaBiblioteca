@@ -2,6 +2,10 @@ IdeaBiblioteca:
 
 Este es un programa que simula la gestión de una biblioteca. Permite realizar diversas operaciones, como agregar libros, buscar libros por autor o título, prestar libros y contar la cantidad de libros en la biblioteca.
 
+Para solo ver el codigo:
+
+Click en "scr" y solo abre alguna de las Clases.
+
 Cómo utilizar el programa:
 
 1.Descarga el archivo .zip que contiene el código fuente del programa.
