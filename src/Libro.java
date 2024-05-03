@@ -9,7 +9,9 @@ public class Libro {
     public Libro(String titulo, Autor... autores) {
         this.titulo = titulo;
         this.autores = new ArrayList<>();
-        this.autores.addAll(Arrays.asList(autores));
+        for (Autor autor : autores) { // me sugiere cambiar a  this.autores.addAll(Arrays.asList(autores));
+        this.autores.add(autor); 
+}
 
     }
 }
